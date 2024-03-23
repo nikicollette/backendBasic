@@ -10,7 +10,7 @@ dresses = dbname["dresses"]
 skirts = dbname["skirts"]
 
 #list of collections
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 client = OpenAI()
 collection_list = [tops, pants, dresses, skirts]
 

@@ -11,7 +11,7 @@ from pydantic import BaseModel, Field
 import os
 
 from prompts import CATEGORY_PROMPT, COLOR_PROMPT, DESCRIPTOR_PROMPT
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 llm = ChatOpenAI(model="gpt-3.5-turbo")
 
