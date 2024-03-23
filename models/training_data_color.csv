@@ -1,0 +1,275 @@
+inputs,labels
+White,white
+Black,black 
+Gray,grey
+Navy,blue
+Blue,blue
+Light Blue,blue
+Dark Blue,blue
+Sky Blue,blue
+Royal Blue,blue
+Teal,blue
+Turquoise,blue
+Cyan,blue
+Green,green
+Lime Green,green
+Forest Green,green
+Olive Green,green
+Yellow,yellow
+Mustard Yellow,yellow
+Gold,gold
+Orange,orange
+Burnt Orange,orange
+Peach,pink
+Coral,pink
+Pink,pink
+Hot Pink,pink
+Fuchsia,pink
+Magenta,pink
+Purple,purple
+Lavender,purple
+Violet,purple
+Indigo,purple
+Burgundy,red
+Maroon,red
+Red,red
+Dark Red,red
+Wine Red,red
+Brown,brown
+Chocolate Brown,brown
+Tan,beige
+Beige,beige
+Khaki,beige
+Cream,white
+Ivory,white
+Off-White,white
+Eggshell,white
+Sand,beige
+Champagne,beige
+Charcoal,black 
+Slate Gray,grey
+Steel Gray,grey
+Midnight Blue,blue
+Denim Blue,blue
+Baby Blue,blue
+Aqua,blue
+Seafoam Green,green
+Mint Green,green
+Grass Green,green
+Kelly Green,green
+Chartreuse,green
+Lemon Yellow,yellow
+Sunflower Yellow,yellow
+Amber,yellow
+Tangerine,orange
+Salmon,pink
+Watermelon,pink
+Raspberry,pink
+Coral Pink,pink
+Bubblegum Pink,pink
+Orchid,pink
+Plum,purple
+Eggplant,purple
+Wine,purple
+Ruby Red,red
+Crimson,red
+Mahogany,brown
+Chestnut,brown
+Walnut,brown
+Tan Brown,brown
+Sandy Brown,brown
+Caramel,brown
+Bronze,gold
+Silver,silver
+Metallic Gold,gold
+Metallic Silver,silver
+Mauve,pink
+Dusty Rose,pink
+Ballet Pink,pink
+Blush,pink
+Champagne Pink,pink
+Peachy Pink,pink
+Rose Gold,gold
+Copper,gold
+Brick Red,red
+Terra Cotta,red
+Burnt Sienna,red
+Olive Brown,brown
+Moss Green,green
+Sage Green,green
+Hunter Green,green
+Emerald Green,green
+Kelly Green,green
+Mint Blue,blue
+Sky Blue,blue
+Cornflower Blue,blue
+Baby Pink,pink
+Pale Yellow,yellow
+Canary Yellow,yellow
+Saffron Yellow,yellow
+Goldfish Orange,orange
+Pumpkin Orange,orange
+Persimmon,orange
+Coral Red,red
+Cherry Red,red
+Cardinal Red,red
+Crimson Red,red
+Ruby,red
+Burgundy Red,red
+Wine Red,red
+Plum Purple,purple
+Amethyst,purple
+Lavender Purple,purple
+Lilac Purple,purple
+Orchid Purple,purple
+Grape Purple,purple
+Mulberry Purple,purple
+Eggplant Purple,purple
+Mauve Purple,purple
+Dusty Purple,purple
+Violet Purple,purple
+Indigo Blue,blue
+Periwinkle Blue,blue
+Lavender Blue,blue
+Denim Blue,blue
+Slate Blue,blue
+Midnight Blue,blue
+Navy Blue,blue
+Sky Blue,blue
+Baby Blue,blue
+Powder Blue,blue
+Turquoise Blue,blue
+Teal Blue,blue
+Aqua Blue,blue
+Mint Green,green
+Seafoam Green,green
+Sage Green,green
+Olive Green,green
+Lime Green,green
+Chartreuse Green,green
+Forest Green,green
+Emerald Green,green
+Kelly Green,green
+Hunter Green,green
+Grass Green,green
+Mint Blue,blue
+Sky Blue,blue
+Cornflower Blue,blue
+Baby Pink,pink
+Blush Pink,pink
+Dusty Pink,pink
+Ballet Pink,pink
+Peach Pink,pink
+Rose Pink,pink
+Salmon Pink,pink
+Coral Pink,pink
+Watermelon Pink,pink
+Strawberry Pink,pink
+Bubblegum Pink,pink
+Raspberry Pink,pink
+Hot Pink,pink
+Fuchsia Pink,pink
+Magenta Pink,pink
+Orchid Pink,pink
+Mauve Pink,pink
+Lavender Purple,purple
+Lilac Purple,purple
+Plum Purple,purple
+Violet Purple,purple
+Grape Purple,purple
+Amethyst Purple,purple
+Eggplant Purple,purple
+Indigo Purple,purple
+Mulberry Purple,purple
+Orchid Purple,purple
+Mauve Purple,purple
+Dusty Purple,purple
+Periwinkle Blue,blue
+Denim Blue,blue
+Slate Blue,blue
+Midnight Blue,blue
+Navy Blue,blue
+Sky Blue,blue
+Baby Blue,blue
+Powder Blue,blue
+Turquoise Blue,blue
+Teal Blue,blue
+Aqua Blue,blue
+Mint Green,green
+Seafoam Green,green
+Sage Green,green
+Olive Green,green
+Lime Green,green
+Chartreuse Green,green
+Forest Green,green
+Emerald Green,green
+Kelly Green,green
+Hunter Green,green
+Grass Green,green
+Mint Blue,blue
+Sky Blue,blue
+Cornflower Blue,blue
+Baby Pink,pink
+Blush Pink,pink
+Dusty Pink,pink
+Ballet Pink,pink
+Peach Pink,pink
+Rose Pink,pink
+Salmon Pink,pink
+Coral Pink,pink
+Watermelon Pink,pink
+Strawberry Pink,pink
+Bubblegum Pink,pink
+Raspberry Pink,pink
+Hot Pink,pink
+Fuchsia Pink,pink
+Magenta Pink,pink
+Orchid Pink,pink
+Mauve Pink,pink
+Lavender Purple,purple
+Lilac Purple,purple
+Plum Purple,purple
+Violet Purple,purple
+Grape Purple,purple
+Amethyst Purple,purple
+Eggplant Purple,purple
+Indigo Purple,purple
+Mulberry Purple,purple
+Orchid Purple,purple
+Mauve Purple,purple
+Dusty Purple,purple
+black,black 
+blue,blue
+Midnight Blue,blue
+Navy Blue,blue
+Sky Blue,blue
+Baby Blue,blue
+Powder Blue,blue
+Turquoise Blue,blue
+Teal Blue,blue
+Aqua Blue,blue
+Mint Green,green
+Seafoam Green,green
+Sage Green,green
+Olive Green,green
+Lime Green,green
+Chartreuse Green,green
+Forest Green,green
+Emerald Green,green
+Kelly Green,green
+Hunter Green,green
+Grass Green,green
+Mint Blue,blue
+Sky Blue,blue
+Cornflower Blue,blue
+Baby Pink,pink
+Blush Pink,pink
+Dusty Pink,pink
+Ballet Pink,pink
+Peach Pink,pink
+Rose Pink,pink
+Salmon Pink,pink
+Coral Pink,pink
+Watermelon Pink,pink
+Strawberry Pink,pink
+Bubblegum Pink,pink

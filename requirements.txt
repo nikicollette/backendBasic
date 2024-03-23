@@ -1,0 +1,6 @@
+selenium
+pymongo
+langchain
+pandas
+openai
+scikit-learn
